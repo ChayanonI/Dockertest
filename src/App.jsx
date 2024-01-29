@@ -11,13 +11,7 @@ function App() {
       <h1>{import.meta.env.VITE_API}</h1>
       <h2>chayanon</h2>
       <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
-      <h2>chayanon</h2>
+      <h3>pond</h3>
     </>
   );
 }
